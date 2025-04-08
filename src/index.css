@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Butler';
+  src: url('./assets/fonts/Butler/Butler-Medium.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+}
